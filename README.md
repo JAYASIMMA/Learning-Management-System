@@ -1,0 +1,2 @@
+# Learning-Management-System
+A Learning Management System (LMS) is a software platform designed to manage, deliver, and track educational content and student progress. It allows administrators, faculty, and students to interact in a structured digital environment. In an LMS, instructors can create and assign tasks, share resources, evaluate student performance, and provide feedback, while students can access course materials, submit assignments, and monitor their learning progress.
