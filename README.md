@@ -80,8 +80,18 @@ Online Course/
 - MySQL 5.7+
 - XAMPP/LAMP/WAMP or compatible local server
 
+## Screenshots
+![Screenshot 2025-06-13 142714](https://github.com/user-attachments/assets/0f73b4cc-b00b-4e4c-922f-194e9fade30f)
+![Screenshot 2025-06-13 142726](https://github.com/user-attachments/assets/05c1d66a-3e9b-4ccd-9611-cbc619845d48)
+![Screenshot 2025-06-13 142734](https://github.com/user-attachments/assets/5699dd49-10a0-4289-9e1e-fbaab8caea34)
+![Screenshot 2025-06-13 143028](https://github.com/user-attachments/assets/f396ba5f-7cf9-4e04-8036-275491b50ea3)
+![Screenshot 2025-06-13 143039](https://github.com/user-attachments/assets/0775ea22-6cb2-458e-8d82-8beb1ea9b992)
+![Screenshot 2025-06-13 143102](https://github.com/user-attachments/assets/2d23c5b7-f816-4961-aaf1-de90da27a735)
+![Screenshot 2025-06-13 142601](https://github.com/user-attachments/assets/1cef0ecf-60e5-4c1f-9843-1395d5500934)
+
+
 ## Credits
-- Developed by [Your Name/Team]
+- Developed by Jayasimma D
 - UI inspired by modern LMS platforms
 
 ---
